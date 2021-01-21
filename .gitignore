@@ -7,6 +7,7 @@
 *.a
 *.lo
 *.o
+*.lst
 *.dylib
 
 *.gcda
@@ -24,3 +25,13 @@
 /configure.log
 
 .DS_Store
+
+# visual studio artifacts
+
+Intermediate/
+.vs/
+*.obj
+release-dll/
+release-static/
+debug-dll/
+debug-static/
