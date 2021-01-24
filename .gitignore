@@ -31,7 +31,5 @@
 Intermediate/
 .vs/
 *.obj
-release-dll/
-release-static/
-debug-dll/
-debug-static/
+zlibstat/
+zlibvc/
